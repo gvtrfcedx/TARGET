@@ -24,7 +24,7 @@
                                             <p style="color: lavenderblush;text-align: center;"><b><i>tzuyvia  </i></b> 
                                                 <p style="color: lavenderblush;text-align: center;"><b><i>tzutrix </i></b> 
                                                     <p style="color: lavenderblush;text-align: center;"><b><i>tzutron </i></b> 
-                                                        <p style="color: lavenderblush;text-align: center;"><b><i><mark>tesco </i></b></mark>
+                                                        <p style="color: lavenderblush;text-align: center;"><b><i><mark>tesco</mark>
                                                             <p style="color: lavenderblush;text-align: center;"><b><i> </i>cf1f</b> 
                                                                 <p style="color: lavenderblush;text-align: center;"><b><i>cf2f </i></b> 
                                                                     <p style="color: lavenderblush;text-align: center;"><b><i> clawyXD</i></b> 
